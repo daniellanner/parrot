@@ -1,5 +1,5 @@
 ![](readme-header.png)
-# Parrot Hook
+# Parrot
 
 This repository contains a python script to automatically edit the root level `README.md` file of a repository and a combination of pre-commit and post-commit git hooks to automise the process. This `README.md` has been created this way.
 
